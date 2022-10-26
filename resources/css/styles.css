@@ -1,0 +1,74 @@
+.navbar {
+    position: relative;
+    top: 30px;
+    width: 100%;
+    height: auto; 
+    padding: 30px;
+}
+
+.bg-img {
+    background-image: url("/resources/images/pattern.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-br {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: helcetica;
+    color: khaki;
+    text-shadow: 2px 2px 2px black;
+}
+
+.center {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    top: 20px;
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+.brush {
+    font-size: 32px;
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    font-family: helcetica;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.frames {
+    font-size: 32px;
+    background-color: lightcoral;
+    font-weight: bold;
+    font-family: helcetica;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.paint {
+    font-size: 32px;
+    background-color: skyblue;
+    font-weight: bold;
+    font-family: helcetica;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.blue {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
